@@ -2,12 +2,13 @@
 This repository contains exercises and practices from Java8, Spring Core, Spring MVC, Spring Boot, and JPA/Hibernate.
 
 ## Table of Contents
-Description
-Technologies Used
-Installation
-Usage
-Contributing
-License
+- ## Description
+- Technologies Used
+- Installation
+- Usage
+- Contributing
+- License
+
 ## Description
 This repository is a collection of exercises and practices for Java8, Spring Core, Spring MVC, Spring Boot, and JPA/Hibernate. It includes sample code, tutorials, and other resources for learning these technologies.
 
